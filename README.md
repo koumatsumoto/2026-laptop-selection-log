@@ -41,6 +41,7 @@
 .
 ├── README.md
 ├── comparison.md
+├── current-machine.md
 └── candidates/
     ├── README.md
     ├── lg-gram-pro-16.md
@@ -50,4 +51,5 @@
 ## ファイルの役割
 
 - `comparison.md`: 比較観点、比較表、記録方針、更新ルール
+- `current-machine.md`: 現行機の詳細と比較のベース情報
 - `candidates/`: 候補機種ごとの詳細メモ

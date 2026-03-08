@@ -58,8 +58,8 @@
 
 | 機種 | 状態 | 理由 |
 | --- | --- | --- |
-| LG gram Pro 17 | 保留 | 17インチ最優先候補。ただし 2026 日本モデルの `Panther Lake / JIS / 非タッチ` 確認待ち。 |
-| LG gram Pro 16 | 保留 | 軽さと画面サイズのバランス候補。ただし 2026 日本モデルの `Panther Lake / JIS / 非タッチ` 確認待ち。 |
+| LG gram Pro 16 `16Z90U-KUB5J` | 暫定結論 | LG 公式ページで `Core Ultra X7 358H / 32GB / 512GB / 16型 OLED / 1,199g / 日本語キーボード` を確認でき、条件への一致度が高い。 |
+| LG gram Pro 17 | 保留 | 17インチ最優先の考え方は維持。ただし 2026 日本モデルの `Panther Lake / JIS / 非タッチ` 確認待ち。 |
 | Acer Swift Edge 16 AI Intel | 調査継続 | Panther Lake 系、16インチ、超軽量。国内 SKU の `JIS / 32GB / 非タッチ` 確認待ち。 |
 
 ### 条件付き候補
@@ -81,7 +81,8 @@
 
 ## 次に確認すること
 
-- `LG gram Pro 16 / 17` の 2026 日本モデルで `Panther Lake` と `JIS` が揃うか
+- `LG gram Pro 16 16Z90U-KUB5J` の実売価格と発売後レビュー
+- `LG gram Pro 17` の 2026 日本モデルで `Panther Lake` と `JIS` が揃うか
 - `Acer Swift Edge 16 AI Intel` の日本向け実売 SKU で `32GB` と `非タッチ` があるか
 - `MSI Prestige 16 AI+ C3M` を重量超過込みで許容候補にするか
 - `Dell XPS 16 DA16260` を重量超過込みで許容候補にするか
@@ -90,6 +91,8 @@
 
 - LG Japan press release, 2026-03-05  
   https://www.lg.com/jp/about-lg/press-and-media/20260305-lg-gram-pro-new-model/
+- LG Japan LG gram Pro 16 `16Z90U-KUB5J`  
+  https://www.lg.com/jp/mobile-pc/gram/16z90u-kub5j/
 - Acer Japan Swift Edge 14/16 AI Intel  
   https://www.acer.com/jp-ja/laptops/swift/swift-edge-14-16-ai-intel
 - MSI Japan Prestige 16 AI+ C3M  
